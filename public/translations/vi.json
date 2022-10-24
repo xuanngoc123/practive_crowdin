@@ -1,6 +1,6 @@
 {
-  "welcome": "Welcome!",
-  "sampleText": "Sample <bold><italic>text</italic></bold>.",
-  "changed_one": "You have changed the language {{count}} time",
-  "changed_other": "You have changed the language {{count}} times"
+  "welcome": "Chào mừng!",
+  "sampleText": "Ví dụ <bold><italic>text</italic></bold>.",
+  "changed_one": "Bạn đã thay đổi thiết lập ngôn ngữ {{count}} lần",
+  "changed_other": "Bạn đã thay đổi thiết lập ngôn ngữ {{count}} lần"
 }
