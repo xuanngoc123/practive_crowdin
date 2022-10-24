@@ -35,6 +35,7 @@ const App = () => {
           <select name="language" onChange={onChange}>
             <option value="en">English</option>
             <option value="fr">French</option>
+            <option value="vi">Viet Nam</option>
           </select>
         </header>
       </div>
